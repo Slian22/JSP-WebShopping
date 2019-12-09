@@ -1,0 +1,12 @@
+<%@ page contentType="text/html;charset=GBK" %>
+<div align="center"> 
+  <Font color=red><H3>“天盛商城”销售网</H3></Font>
+  <table  cellSpacing="1" cellPadding="1" width="660" align="center" border="0">
+   <tr valign="bottom">
+    <td><A href="index.jsp">主页</A></td>
+    <td><A href="inputRegisterMess.jsp">注册</font></A></td>
+    <td><A href="login.jsp">登录</A></td>
+    <td><A href="exitServlet">退出</A></td>  
+   </tr>
+  </table>
+</div>
